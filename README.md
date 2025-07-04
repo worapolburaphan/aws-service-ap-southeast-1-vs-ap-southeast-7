@@ -1,5 +1,8 @@
 # AWS Service ap-southeast-1 compare to ap-southeast-7
 
+This table update daily sync from 
+[https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+
 | Service Name                                   | ap-southeast-1       | ap-southeast-7       |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
