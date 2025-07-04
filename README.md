@@ -1,9 +1,9 @@
-# AWS Service ap-southeast-1 compare to ap-southeast-7
+# 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1       | ap-southeast-7       |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (88)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
