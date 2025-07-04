@@ -1,214 +1,214 @@
 # AWS Service ap-southeast-1 compare to ap-southeast-7
 
-| Service Name                                   | ap-southeast-1 | ap-southeast-7 |
-| ---------------------------------------------- | -------------- | -------------- |
-| Amazon Translate                               | \[x\]          | \[ \]          |
-| Amazon Security Lake                           | \[x\]          | \[ \]          |
-| Amazon Route 53                                | \[x\]          | \[x\]          |
-| AWS OpsWorks for Puppet Enterprise             | \[x\]          | \[ \]          |
-| Amazon Fraud Detector                          | \[x\]          | \[ \]          |
-| Amazon Lookout for Metrics                     | \[x\]          | \[ \]          |
-| Amazon Managed Workflows for Apache Airflow    | \[x\]          | \[ \]          |
-| AWS DataSync                                   | \[x\]          | \[x\]          |
-| Amazon Elastic Transcoder                      | \[x\]          | \[ \]          |
-| Amazon CloudWatch Logs                         | \[x\]          | \[x\]          |
-| AWS Security Incident Response                 | \[x\]          | \[ \]          |
-| Red Hat OpenShift Service on AWS (ROSA)        | \[x\]          | \[ \]          |
-| AWS Shield                                     | \[x\]          | \[x\]          |
-| AWS CloudShell                                 | \[x\]          | \[ \]          |
-| Amazon DevOps Guru                             | \[x\]          | \[ \]          |
-| Amazon SageMaker AI                            | \[x\]          | \[x\]          |
-| AWS Cloud Map                                  | \[x\]          | \[x\]          |
-| AWS Transit Gateway                            | \[x\]          | \[x\]          |
-| AWS CloudTrail                                 | \[x\]          | \[x\]          |
-| AWS Systems Manager                            | \[x\]          | \[x\]          |
-| AWS CodeDeploy                                 | \[x\]          | \[ \]          |
-| AWS IoT Greengrass                             | \[x\]          | \[ \]          |
-| AWS IoT Device Defender                        | \[x\]          | \[ \]          |
-| Amazon Elastic Compute Cloud (EC2)             | \[x\]          | \[x\]          |
-| Amazon Inspector                               | \[x\]          | \[x\]          |
-| Amazon QuickSight                              | \[x\]          | \[ \]          |
-| Amazon SimpleDB                                | \[x\]          | \[ \]          |
-| Amazon Polly                                   | \[x\]          | \[ \]          |
-| Amazon Athena                                  | \[x\]          | \[x\]          |
-| AWS Ground Station                             | \[x\]          | \[ \]          |
-| AWS Chatbot                                    | \[x\]          | \[ \]          |
-| Amazon OpenSearch Service                      | \[x\]          | \[x\]          |
-| Amazon Redshift                                | \[x\]          | \[x\]          |
-| AWS Identity and Access Management (IAM)       | \[x\]          | \[x\]          |
-| Amazon File Cache                              | \[x\]          | \[ \]          |
-| AWS IoT Events                                 | \[x\]          | \[ \]          |
-| Amazon Managed Service for Apache Flink        | \[x\]          | \[x\]          |
-| Amazon Data Firehose                           | \[x\]          | \[x\]          |
-| Amazon Kinesis Video Streams                   | \[x\]          | \[ \]          |
-| AWS SimSpace Weaver                            | \[x\]          | \[ \]          |
-| AWS Data Exchange                              | \[x\]          | \[ \]          |
-| Amazon GuardDuty                               | \[x\]          | \[x\]          |
-| AWS Launch Wizard                              | \[x\]          | \[ \]          |
-| VMware Cloud on AWS                            | \[x\]          | \[ \]          |
-| Amazon AppStream 2.0                           | \[x\]          | \[ \]          |
-| Amazon CloudSearch                             | \[x\]          | \[ \]          |
-| AWS Resource Access Manager (RAM)              | \[x\]          | \[x\]          |
-| AWS Health Dashboard                           | \[x\]          | \[x\]          |
-| AWS Managed Services                           | \[x\]          | \[ \]          |
-| AWS Compute Optimizer                          | \[x\]          | \[ \]          |
-| Amazon Simple Queue Service (SQS)              | \[x\]          | \[x\]          |
-| Amazon MQ                                      | \[x\]          | \[x\]          |
-| AWS WAF                                        | \[x\]          | \[x\]          |
-| AWS Well-Architected Tool                      | \[x\]          | \[ \]          |
-| Amazon API Gateway                             | \[x\]          | \[x\]          |
-| AWS Proton                                     | \[x\]          | \[ \]          |
-| AWS Step Functions                             | \[x\]          | \[x\]          |
-| AWS Budgets                                    | \[x\]          | \[ \]          |
-| AWS License Manager                            | \[x\]          | \[x\]          |
-| AWS Directory Service                          | \[x\]          | \[x\]          |
-| AWS Glue                                       | \[x\]          | \[x\]          |
-| AWS Outposts                                   | \[x\]          | \[ \]          |
-| AWS PrivateLink                                | \[x\]          | \[x\]          |
-| AWS Elemental MediaLive                        | \[x\]          | \[ \]          |
-| Amazon WorkSpaces Secure Browser               | \[x\]          | \[ \]          |
-| AWS Certificate Manager                        | \[x\]          | \[x\]          |
-| Amazon Personalize                             | \[x\]          | \[ \]          |
-| AWS Artifact                                   | \[x\]          | \[x\]          |
-| Amazon DataZone                                | \[x\]          | \[ \]          |
-| CloudEndure Disaster Recovery                  | \[x\]          | \[ \]          |
-| Amazon Elastic Kubernetes Service (EKS)        | \[x\]          | \[x\]          |
-| AWS Firewall Manager                           | \[x\]          | \[x\]          |
-| AWS CloudFormation                             | \[x\]          | \[x\]          |
-| AWS Resource Explorer                          | \[x\]          | \[x\]          |
-| Amazon Cloud Directory                         | \[x\]          | \[ \]          |
-| Amazon Kinesis Data Streams                    | \[x\]          | \[x\]          |
-| Amazon Cognito                                 | \[x\]          | \[ \]          |
-| AWS Control Tower                              | \[x\]          | \[x\]          |
-| Amazon Detective                               | \[x\]          | \[ \]          |
-| Amazon Lumberyard                              | \[x\]          | \[ \]          |
-| Amazon Relational Database Service (RDS)       | \[x\]          | \[x\]          |
-| Amazon Managed Grafana                         | \[x\]          | \[ \]          |
-| AWS CodeArtifact                               | \[x\]          | \[ \]          |
-| Amazon FSx for NetApp ONTAP                    | \[x\]          | \[x\]          |
-| AWS HealthOmics                                | \[x\]          | \[ \]          |
-| AWS IoT SiteWise                               | \[x\]          | \[ \]          |
-| Amazon Lightsail                               | \[x\]          | \[ \]          |
-| Amazon Managed Streaming for Apache Kafka      | \[x\]          | \[x\]          |
-| AWS Trusted Advisor                            | \[x\]          | \[x\]          |
-| Amazon Pinpoint and End User Messaging         | \[x\]          | \[ \]          |
-| AWS Resource Groups                            | \[x\]          | \[x\]          |
-| Amazon Virtual Private Cloud (VPC)             | \[x\]          | \[x\]          |
-| AWS Direct Connect                             | \[x\]          | \[x\]          |
-| AWS IoT Core                                   | \[x\]          | \[ \]          |
-| AWS IAM Identity Center                        | \[x\]          | \[ \]          |
-| AWS Signer                                     | \[x\]          | \[ \]          |
-| Amazon DynamoDB Accelerator                    | \[x\]          | \[ \]          |
-| Amazon Aurora                                  | \[x\]          | \[x\]          |
-| CloudEndure Migration                          | \[x\]          | \[ \]          |
-| Amazon Comprehend                              | \[x\]          | \[ \]          |
-| AWS Resilience Hub                             | \[x\]          | \[ \]          |
-| AWS Backup                                     | \[x\]          | \[x\]          |
-| Amazon Elastic Block Store (EBS)               | \[x\]          | \[x\]          |
-| Amazon Chime                                   | \[x\]          | \[ \]          |
-| AWS IQ                                         | \[x\]          | \[ \]          |
-| AWS Global Accelerator                         | \[x\]          | \[ \]          |
-| AWS Fargate                                    | \[x\]          | \[x\]          |
-| AWS Snowcone                                   | \[x\]          | \[ \]          |
-| Amazon Kendra                                  | \[x\]          | \[ \]          |
-| AWS Elemental MediaPackage                     | \[x\]          | \[ \]          |
-| Amazon Bedrock                                 | \[x\]          | \[ \]          |
-| AWS Elastic Disaster Recovery (DRS)            | \[x\]          | \[ \]          |
-| Amazon Textract                                | \[x\]          | \[ \]          |
-| Amazon EventBridge                             | \[x\]          | \[x\]          |
-| Amazon Lex                                     | \[x\]          | \[ \]          |
-| AWS Private Certificate Authority              | \[x\]          | \[x\]          |
-| Amazon FSx                                     | \[x\]          | \[x\]          |
-| Amazon Verified Permissions                    | \[x\]          | \[ \]          |
-| AWS X-Ray                                      | \[x\]          | \[x\]          |
-| AWS CloudHSM                                   | \[x\]          | \[ \]          |
-| Amazon Neptune                                 | \[x\]          | \[ \]          |
-| AWS Fault Injection Service                    | \[x\]          | \[ \]          |
-| AWS Amplify                                    | \[x\]          | \[ \]          |
-| AWS Audit Manager                              | \[x\]          | \[ \]          |
-| Amazon AppFlow                                 | \[x\]          | \[ \]          |
-| AWS Secrets Manager                            | \[x\]          | \[x\]          |
-| Amazon WorkDocs                                | \[x\]          | \[ \]          |
-| Amazon Simple Workflow Service (SWF)           | \[x\]          | \[x\]          |
-| Amazon Augmented AI (A2I)                      | \[x\]          | \[ \]          |
-| AWS Batch                                      | \[x\]          | \[x\]          |
-| Amazon Elastic MapReduce (EMR)                 | \[x\]          | \[x\]          |
-| AWS Transfer Family                            | \[x\]          | \[ \]          |
-| Amazon Simple Email Service (SES)              | \[x\]          | \[ \]          |
-| Amazon VPC Lattice                             | \[x\]          | \[ \]          |
-| AWS Marketplace                                | \[x\]          | \[x\]          |
-| AWS Auto Scaling                               | \[x\]          | \[ \]          |
-| AWS Application Migration Service (MGN)        | \[x\]          | \[ \]          |
-| AWS Parallel Computing Service (PCS)           | \[x\]          | \[ \]          |
-| AWS CodePipeline                               | \[x\]          | \[ \]          |
-| EC2 Image Builder                              | \[x\]          | \[x\]          |
-| Amazon Location Service                        | \[x\]          | \[ \]          |
-| AWS OpsWorks for Chef Automate                 | \[x\]          | \[ \]          |
-| AWS Lake Formation                             | \[x\]          | \[x\]          |
-| Amazon CloudWatch                              | \[x\]          | \[x\]          |
-| AWS Cloud9                                     | \[x\]          | \[ \]          |
-| AWS Serverless Application Repository          | \[x\]          | \[ \]          |
-| Amazon WorkSpaces                              | \[x\]          | \[ \]          |
-| Amazon Managed Blockchain                      | \[x\]          | \[ \]          |
-| AWS Organizations                              | \[x\]          | \[x\]          |
-| AWS Snowball                                   | \[x\]          | \[ \]          |
-| AWS Database Migration Service                 | \[x\]          | \[x\]          |
-| AWS Entity Resolution                          | \[x\]          | \[ \]          |
-| AWS Elastic Beanstalk                          | \[x\]          | \[ \]          |
-| Amazon Transcribe                              | \[x\]          | \[ \]          |
-| Amazon ElastiCache                             | \[x\]          | \[x\]          |
-| AWS RoboMaker                                  | \[x\]          | \[ \]          |
-| AWS Clean Rooms                                | \[x\]          | \[ \]          |
-| AWS Deadline Cloud                             | \[x\]          | \[ \]          |
-| AWS IoT Device Management                      | \[x\]          | \[ \]          |
-| Amazon Managed Service for Prometheus          | \[x\]          | \[x\]          |
-| Amazon Macie                                   | \[x\]          | \[ \]          |
-| Amazon Keyspaces (for Apache Cassandra)        | \[x\]          | \[ \]          |
-| Amazon Connect                                 | \[x\]          | \[ \]          |
-| AWS Key Management Service                     | \[x\]          | \[x\]          |
-| AWS Network Firewall                           | \[x\]          | \[x\]          |
-| Amazon Forecast                                | \[x\]          | \[ \]          |
-| Amazon Simple Notification Service (SNS)       | \[x\]          | \[x\]          |
-| AWS Support                                    | \[x\]          | \[x\]          |
-| AWS Verified Access                            | \[x\]          | \[ \]          |
-| AWS VPN                                        | \[x\]          | \[x\]          |
-| AWS Mainframe Modernization                    | \[x\]          | \[ \]          |
-| Amazon FinSpace                                | \[x\]          | \[ \]          |
-| AWS IoT TwinMaker                              | \[x\]          | \[ \]          |
-| AWS Storage Gateway                            | \[x\]          | \[x\]          |
-| Amazon EC2 Auto Scaling                        | \[x\]          | \[x\]          |
-| Amazon FSx for Lustre                          | \[x\]          | \[x\]          |
-| AWS Service Catalog                            | \[x\]          | \[ \]          |
-| AWS AppSync                                    | \[x\]          | \[x\]          |
-| AWS Wickr                                      | \[x\]          | \[ \]          |
-| AWS Elemental MediaTailor                      | \[x\]          | \[ \]          |
-| Amazon Elastic Container Registry (ECR)        | \[x\]          | \[x\]          |
-| AWS CodeCommit                                 | \[x\]          | \[ \]          |
-| Elastic Load Balancing                         | \[x\]          | \[x\]          |
-| Amazon MemoryDB                                | \[x\]          | \[ \]          |
-| Amazon Simple Storage Service (S3)             | \[x\]          | \[x\]          |
-| AWS User Notifications                         | \[x\]          | \[ \]          |
-| Amazon CodeGuru                                | \[x\]          | \[ \]          |
-| Amazon Elastic File System (EFS)               | \[x\]          | \[x\]          |
-| AWS Elemental MediaConvert                     | \[x\]          | \[ \]          |
-| Amazon Quantum Ledger Database (QLDB)          | \[x\]          | \[ \]          |
-| Amazon GameLift Servers                        | \[x\]          | \[x\]          |
-| Amazon DynamoDB                                | \[x\]          | \[x\]          |
-| Amazon FSx for OpenZFS                         | \[x\]          | \[x\]          |
-| AWS Security Hub                               | \[x\]          | \[x\]          |
-| AWS Payment Cryptography                       | \[x\]          | \[ \]          |
-| Amazon DocumentDB (with MongoDB compatibility) | \[x\]          | \[ \]          |
-| AWS Elemental MediaConnect                     | \[x\]          | \[ \]          |
-| Amazon CloudFront                              | \[x\]          | \[x\]          |
-| AWS Config                                     | \[x\]          | \[x\]          |
-| FreeRTOS                                       | \[x\]          | \[ \]          |
-| AWS App Mesh                                   | \[x\]          | \[ \]          |
-| Amazon Rekognition                             | \[x\]          | \[ \]          |
-| AWS Lambda                                     | \[x\]          | \[x\]          |
-| AWS Cloud Control API                          | \[x\]          | \[x\]          |
-| Amazon FSx for Windows File Server             | \[x\]          | \[x\]          |
-| AWS App Runner                                 | \[x\]          | \[ \]          |
-| AWS CodeBuild                                  | \[x\]          | \[ \]          |
-| Amazon Application Recovery Controller         | \[x\]          | \[x\]          |
-| Amazon Chime SDK                               | \[x\]          | \[ \]          |
-| Amazon Elastic Container Service (ECS)         | \[x\]          | \[x\]          |
+| Service Name                                   | ap-southeast-1      | ap-southeast-7      |
+| ---------------------------------------------- | ------------------- | ------------------- |
+| Amazon Translate                               | :heavy\_check\_mark |                     |
+| Amazon Security Lake                           | :heavy\_check\_mark |                     |
+| Amazon Route 53                                | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS OpsWorks for Puppet Enterprise             | :heavy\_check\_mark |                     |
+| Amazon Fraud Detector                          | :heavy\_check\_mark |                     |
+| Amazon Lookout for Metrics                     | :heavy\_check\_mark |                     |
+| Amazon Managed Workflows for Apache Airflow    | :heavy\_check\_mark |                     |
+| AWS DataSync                                   | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Elastic Transcoder                      | :heavy\_check\_mark |                     |
+| Amazon CloudWatch Logs                         | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Security Incident Response                 | :heavy\_check\_mark |                     |
+| Red Hat OpenShift Service on AWS (ROSA)        | :heavy\_check\_mark |                     |
+| AWS Shield                                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CloudShell                                 | :heavy\_check\_mark |                     |
+| Amazon DevOps Guru                             | :heavy\_check\_mark |                     |
+| Amazon SageMaker AI                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Cloud Map                                  | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Transit Gateway                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CloudTrail                                 | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Systems Manager                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CodeDeploy                                 | :heavy\_check\_mark |                     |
+| AWS IoT Greengrass                             | :heavy\_check\_mark |                     |
+| AWS IoT Device Defender                        | :heavy\_check\_mark |                     |
+| Amazon Elastic Compute Cloud (EC2)             | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Inspector                               | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon QuickSight                              | :heavy\_check\_mark |                     |
+| Amazon SimpleDB                                | :heavy\_check\_mark |                     |
+| Amazon Polly                                   | :heavy\_check\_mark |                     |
+| Amazon Athena                                  | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Ground Station                             | :heavy\_check\_mark |                     |
+| AWS Chatbot                                    | :heavy\_check\_mark |                     |
+| Amazon OpenSearch Service                      | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Redshift                                | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Identity and Access Management (IAM)       | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon File Cache                              | :heavy\_check\_mark |                     |
+| AWS IoT Events                                 | :heavy\_check\_mark |                     |
+| Amazon Managed Service for Apache Flink        | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Data Firehose                           | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Kinesis Video Streams                   | :heavy\_check\_mark |                     |
+| AWS SimSpace Weaver                            | :heavy\_check\_mark |                     |
+| AWS Data Exchange                              | :heavy\_check\_mark |                     |
+| Amazon GuardDuty                               | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Launch Wizard                              | :heavy\_check\_mark |                     |
+| VMware Cloud on AWS                            | :heavy\_check\_mark |                     |
+| Amazon AppStream 2.0                           | :heavy\_check\_mark |                     |
+| Amazon CloudSearch                             | :heavy\_check\_mark |                     |
+| AWS Resource Access Manager (RAM)              | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Health Dashboard                           | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Managed Services                           | :heavy\_check\_mark |                     |
+| AWS Compute Optimizer                          | :heavy\_check\_mark |                     |
+| Amazon Simple Queue Service (SQS)              | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon MQ                                      | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS WAF                                        | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Well-Architected Tool                      | :heavy\_check\_mark |                     |
+| Amazon API Gateway                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Proton                                     | :heavy\_check\_mark |                     |
+| AWS Step Functions                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Budgets                                    | :heavy\_check\_mark |                     |
+| AWS License Manager                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Directory Service                          | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Glue                                       | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Outposts                                   | :heavy\_check\_mark |                     |
+| AWS PrivateLink                                | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Elemental MediaLive                        | :heavy\_check\_mark |                     |
+| Amazon WorkSpaces Secure Browser               | :heavy\_check\_mark |                     |
+| AWS Certificate Manager                        | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Personalize                             | :heavy\_check\_mark |                     |
+| AWS Artifact                                   | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon DataZone                                | :heavy\_check\_mark |                     |
+| CloudEndure Disaster Recovery                  | :heavy\_check\_mark |                     |
+| Amazon Elastic Kubernetes Service (EKS)        | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Firewall Manager                           | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CloudFormation                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Resource Explorer                          | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Cloud Directory                         | :heavy\_check\_mark |                     |
+| Amazon Kinesis Data Streams                    | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Cognito                                 | :heavy\_check\_mark |                     |
+| AWS Control Tower                              | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Detective                               | :heavy\_check\_mark |                     |
+| Amazon Lumberyard                              | :heavy\_check\_mark |                     |
+| Amazon Relational Database Service (RDS)       | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Managed Grafana                         | :heavy\_check\_mark |                     |
+| AWS CodeArtifact                               | :heavy\_check\_mark |                     |
+| Amazon FSx for NetApp ONTAP                    | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS HealthOmics                                | :heavy\_check\_mark |                     |
+| AWS IoT SiteWise                               | :heavy\_check\_mark |                     |
+| Amazon Lightsail                               | :heavy\_check\_mark |                     |
+| Amazon Managed Streaming for Apache Kafka      | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Trusted Advisor                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Pinpoint and End User Messaging         | :heavy\_check\_mark |                     |
+| AWS Resource Groups                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Virtual Private Cloud (VPC)             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Direct Connect                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS IoT Core                                   | :heavy\_check\_mark |                     |
+| AWS IAM Identity Center                        | :heavy\_check\_mark |                     |
+| AWS Signer                                     | :heavy\_check\_mark |                     |
+| Amazon DynamoDB Accelerator                    | :heavy\_check\_mark |                     |
+| Amazon Aurora                                  | :heavy\_check\_mark | :heavy\_check\_mark |
+| CloudEndure Migration                          | :heavy\_check\_mark |                     |
+| Amazon Comprehend                              | :heavy\_check\_mark |                     |
+| AWS Resilience Hub                             | :heavy\_check\_mark |                     |
+| AWS Backup                                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Elastic Block Store (EBS)               | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Chime                                   | :heavy\_check\_mark |                     |
+| AWS IQ                                         | :heavy\_check\_mark |                     |
+| AWS Global Accelerator                         | :heavy\_check\_mark |                     |
+| AWS Fargate                                    | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Snowcone                                   | :heavy\_check\_mark |                     |
+| Amazon Kendra                                  | :heavy\_check\_mark |                     |
+| AWS Elemental MediaPackage                     | :heavy\_check\_mark |                     |
+| Amazon Bedrock                                 | :heavy\_check\_mark |                     |
+| AWS Elastic Disaster Recovery (DRS)            | :heavy\_check\_mark |                     |
+| Amazon Textract                                | :heavy\_check\_mark |                     |
+| Amazon EventBridge                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Lex                                     | :heavy\_check\_mark |                     |
+| AWS Private Certificate Authority              | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon FSx                                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Verified Permissions                    | :heavy\_check\_mark |                     |
+| AWS X-Ray                                      | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CloudHSM                                   | :heavy\_check\_mark |                     |
+| Amazon Neptune                                 | :heavy\_check\_mark |                     |
+| AWS Fault Injection Service                    | :heavy\_check\_mark |                     |
+| AWS Amplify                                    | :heavy\_check\_mark |                     |
+| AWS Audit Manager                              | :heavy\_check\_mark |                     |
+| Amazon AppFlow                                 | :heavy\_check\_mark |                     |
+| AWS Secrets Manager                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon WorkDocs                                | :heavy\_check\_mark |                     |
+| Amazon Simple Workflow Service (SWF)           | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Augmented AI (A2I)                      | :heavy\_check\_mark |                     |
+| AWS Batch                                      | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Elastic MapReduce (EMR)                 | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Transfer Family                            | :heavy\_check\_mark |                     |
+| Amazon Simple Email Service (SES)              | :heavy\_check\_mark |                     |
+| Amazon VPC Lattice                             | :heavy\_check\_mark |                     |
+| AWS Marketplace                                | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Auto Scaling                               | :heavy\_check\_mark |                     |
+| AWS Application Migration Service (MGN)        | :heavy\_check\_mark |                     |
+| AWS Parallel Computing Service (PCS)           | :heavy\_check\_mark |                     |
+| AWS CodePipeline                               | :heavy\_check\_mark |                     |
+| EC2 Image Builder                              | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Location Service                        | :heavy\_check\_mark |                     |
+| AWS OpsWorks for Chef Automate                 | :heavy\_check\_mark |                     |
+| AWS Lake Formation                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon CloudWatch                              | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Cloud9                                     | :heavy\_check\_mark |                     |
+| AWS Serverless Application Repository          | :heavy\_check\_mark |                     |
+| Amazon WorkSpaces                              | :heavy\_check\_mark |                     |
+| Amazon Managed Blockchain                      | :heavy\_check\_mark |                     |
+| AWS Organizations                              | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Snowball                                   | :heavy\_check\_mark |                     |
+| AWS Database Migration Service                 | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Entity Resolution                          | :heavy\_check\_mark |                     |
+| AWS Elastic Beanstalk                          | :heavy\_check\_mark |                     |
+| Amazon Transcribe                              | :heavy\_check\_mark |                     |
+| Amazon ElastiCache                             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS RoboMaker                                  | :heavy\_check\_mark |                     |
+| AWS Clean Rooms                                | :heavy\_check\_mark |                     |
+| AWS Deadline Cloud                             | :heavy\_check\_mark |                     |
+| AWS IoT Device Management                      | :heavy\_check\_mark |                     |
+| Amazon Managed Service for Prometheus          | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Macie                                   | :heavy\_check\_mark |                     |
+| Amazon Keyspaces (for Apache Cassandra)        | :heavy\_check\_mark |                     |
+| Amazon Connect                                 | :heavy\_check\_mark |                     |
+| AWS Key Management Service                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Network Firewall                           | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Forecast                                | :heavy\_check\_mark |                     |
+| Amazon Simple Notification Service (SNS)       | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Support                                    | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Verified Access                            | :heavy\_check\_mark |                     |
+| AWS VPN                                        | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Mainframe Modernization                    | :heavy\_check\_mark |                     |
+| Amazon FinSpace                                | :heavy\_check\_mark |                     |
+| AWS IoT TwinMaker                              | :heavy\_check\_mark |                     |
+| AWS Storage Gateway                            | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon EC2 Auto Scaling                        | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon FSx for Lustre                          | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Service Catalog                            | :heavy\_check\_mark |                     |
+| AWS AppSync                                    | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Wickr                                      | :heavy\_check\_mark |                     |
+| AWS Elemental MediaTailor                      | :heavy\_check\_mark |                     |
+| Amazon Elastic Container Registry (ECR)        | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS CodeCommit                                 | :heavy\_check\_mark |                     |
+| Elastic Load Balancing                         | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon MemoryDB                                | :heavy\_check\_mark |                     |
+| Amazon Simple Storage Service (S3)             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS User Notifications                         | :heavy\_check\_mark |                     |
+| Amazon CodeGuru                                | :heavy\_check\_mark |                     |
+| Amazon Elastic File System (EFS)               | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Elemental MediaConvert                     | :heavy\_check\_mark |                     |
+| Amazon Quantum Ledger Database (QLDB)          | :heavy\_check\_mark |                     |
+| Amazon GameLift Servers                        | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon DynamoDB                                | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon FSx for OpenZFS                         | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Security Hub                               | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Payment Cryptography                       | :heavy\_check\_mark |                     |
+| Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark |                     |
+| AWS Elemental MediaConnect                     | :heavy\_check\_mark |                     |
+| Amazon CloudFront                              | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Config                                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| FreeRTOS                                       | :heavy\_check\_mark |                     |
+| AWS App Mesh                                   | :heavy\_check\_mark |                     |
+| Amazon Rekognition                             | :heavy\_check\_mark |                     |
+| AWS Lambda                                     | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS Cloud Control API                          | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon FSx for Windows File Server             | :heavy\_check\_mark | :heavy\_check\_mark |
+| AWS App Runner                                 | :heavy\_check\_mark |                     |
+| AWS CodeBuild                                  | :heavy\_check\_mark |                     |
+| Amazon Application Recovery Controller         | :heavy\_check\_mark | :heavy\_check\_mark |
+| Amazon Chime SDK                               | :heavy\_check\_mark |                     |
+| Amazon Elastic Container Service (ECS)         | :heavy\_check\_mark | :heavy\_check\_mark |
