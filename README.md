@@ -3,7 +3,7 @@
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (88)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (89)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -141,7 +141,7 @@ This table update daily sync from
 | Amazon VPC Lattice                             | :heavy\_check\_mark: |                      |
 | AWS Marketplace                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Auto Scaling                               | :heavy\_check\_mark: |                      |
-| AWS Application Migration Service (MGN)        | :heavy\_check\_mark: |                      |
+| AWS Application Migration Service (MGN)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodePipeline                               | :heavy\_check\_mark: |                      |
 | EC2 Image Builder                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Location Service                        | :heavy\_check\_mark: |                      |
