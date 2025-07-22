@@ -3,7 +3,7 @@
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (89)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (90)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -81,7 +81,7 @@ This table update daily sync from
 | AWS Resource Explorer                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Cloud Directory                         | :heavy\_check\_mark: |                      |
 | Amazon Kinesis Data Streams                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon Cognito                                 | :heavy\_check\_mark: |                      |
+| Amazon Cognito                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Control Tower                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Lumberyard                              | :heavy\_check\_mark: |                      |
 | Amazon Relational Database Service (RDS)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
