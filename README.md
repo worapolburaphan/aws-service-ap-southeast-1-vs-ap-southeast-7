@@ -152,19 +152,18 @@ This table update daily sync from
 | AWS Cloud9                                     | :heavy\_check\_mark: |                      |
 | Amazon WorkSpaces                              | :heavy\_check\_mark: |                      |
 | Amazon Managed Blockchain                      | :heavy\_check\_mark: |                      |
-| AWS Organizations                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Snowball                                   | :heavy\_check\_mark: |                      |
 | AWS Database Migration Service                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Entity Resolution                          | :heavy\_check\_mark: |                      |
 | AWS Serverless Application Repository          | :heavy\_check\_mark: |                      |
 | AWS Elastic Beanstalk                          | :heavy\_check\_mark: |                      |
 | Amazon Transcribe                              | :heavy\_check\_mark: |                      |
+| AWS Organizations                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon ElastiCache                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS RoboMaker                                  | :heavy\_check\_mark: |                      |
 | AWS Clean Rooms                                | :heavy\_check\_mark: |                      |
 | AWS Deadline Cloud                             | :heavy\_check\_mark: |                      |
 | AWS IoT Device Management                      | :heavy\_check\_mark: |                      |
-| Amazon Managed Service for Prometheus          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Macie                                   | :heavy\_check\_mark: |                      |
 | Amazon Keyspaces (for Apache Cassandra)        | :heavy\_check\_mark: |                      |
 | Amazon Connect                                 | :heavy\_check\_mark: |                      |
@@ -173,10 +172,11 @@ This table update daily sync from
 | Amazon Simple Notification Service (SNS)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Support                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Verified Access                            | :heavy\_check\_mark: |                      |
-| AWS VPN                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Managed Service for Prometheus          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Mainframe Modernization                    | :heavy\_check\_mark: |                      |
 | Amazon FinSpace                                | :heavy\_check\_mark: |                      |
 | AWS Network Firewall                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS VPN                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Storage Gateway                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon EC2 Auto Scaling                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx for Lustre                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -187,31 +187,31 @@ This table update daily sync from
 | AWS CodeCommit                                 | :heavy\_check\_mark: |                      |
 | Elastic Load Balancing                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT TwinMaker                              | :heavy\_check\_mark: |                      |
-| Amazon MemoryDB                                | :heavy\_check\_mark: |                      |
 | Amazon Simple Storage Service (S3)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaTailor                      | :heavy\_check\_mark: |                      |
-| AWS User Notifications                         | :heavy\_check\_mark: |                      |
+| Amazon MemoryDB                                | :heavy\_check\_mark: |                      |
 | Amazon CodeGuru                                | :heavy\_check\_mark: |                      |
 | Amazon Elastic File System (EFS)               | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Elemental MediaConvert                     | :heavy\_check\_mark: |                      |
 | Amazon Quantum Ledger Database (QLDB)          | :heavy\_check\_mark: |                      |
+| AWS User Notifications                         | :heavy\_check\_mark: |                      |
 | Amazon GameLift Servers                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Elemental MediaConvert                     | :heavy\_check\_mark: |                      |
 | Amazon FSx for OpenZFS                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Security Hub                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Payment Cryptography                       | :heavy\_check\_mark: |                      |
 | Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark: |                      |
 | Amazon DynamoDB                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaConnect                     | :heavy\_check\_mark: |                      |
 | Amazon CloudFront                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Config                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| FreeRTOS                                       | :heavy\_check\_mark: |                      |
+| AWS Payment Cryptography                       | :heavy\_check\_mark: |                      |
 | AWS App Mesh                                   | :heavy\_check\_mark: |                      |
 | Amazon Rekognition                             | :heavy\_check\_mark: |                      |
 | AWS Lambda                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon FSx for Windows File Server             | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| FreeRTOS                                       | :heavy\_check\_mark: |                      |
 | AWS App Runner                                 | :heavy\_check\_mark: |                      |
 | AWS Cloud Control API                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Application Recovery Controller         | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon Chime SDK                               | :heavy\_check\_mark: |                      |
+| Amazon FSx for Windows File Server             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Elastic Container Service (ECS)         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodeBuild                                  | :heavy\_check\_mark: |                      |
+| Amazon Chime SDK                               | :heavy\_check\_mark: |                      |
