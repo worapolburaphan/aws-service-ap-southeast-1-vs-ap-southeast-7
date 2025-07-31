@@ -3,7 +3,7 @@
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (90)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (91)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -136,7 +136,7 @@ This table update daily sync from
 | AWS Batch                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                    | :heavy\_check\_mark: |                      |
 | Amazon Elastic MapReduce (EMR)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Transfer Family                            | :heavy\_check\_mark: |                      |
+| AWS Transfer Family                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Email Service (SES)              | :heavy\_check\_mark: |                      |
 | Amazon VPC Lattice                             | :heavy\_check\_mark: |                      |
 | AWS Marketplace                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
