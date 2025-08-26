@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 22/08/2025 09:00
+> Latest Update: 26/08/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (91)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (93)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -129,7 +129,7 @@ This table update daily sync from
 | AWS Fault Injection Service                    | :heavy\_check\_mark: |                      |
 | AWS Audit Manager                              | :heavy\_check\_mark: |                      |
 | Amazon AppFlow                                 | :heavy\_check\_mark: |                      |
-| Amazon Verified Permissions                    | :heavy\_check\_mark: |                      |
+| Amazon Verified Permissions                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CloudHSM                                   | :heavy\_check\_mark: |                      |
 | AWS Secrets Manager                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon WorkDocs                                | :heavy\_check\_mark: |                      |
@@ -158,7 +158,7 @@ This table update daily sync from
 | AWS Database Migration Service                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Entity Resolution                          | :heavy\_check\_mark: |                      |
 | AWS Serverless Application Repository          | :heavy\_check\_mark: |                      |
-| AWS Elastic Beanstalk                          | :heavy\_check\_mark: |                      |
+| AWS Elastic Beanstalk                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Organizations                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon ElastiCache                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS RoboMaker                                  | :heavy\_check\_mark: |                      |
