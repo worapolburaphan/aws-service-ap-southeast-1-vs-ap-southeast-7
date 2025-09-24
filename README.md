@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 23/09/2025 09:00
+> Latest Update: 24/09/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (93)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (94)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -116,7 +116,7 @@ This table update daily sync from
 | AWS Fargate                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Kendra                                  | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaPackage                     | :heavy\_check\_mark: |                      |
-| Amazon Bedrock                                 | :heavy\_check\_mark: |                      |
+| Amazon Bedrock                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elastic Disaster Recovery (DRS)            | :heavy\_check\_mark: |                      |
 | AWS Snowcone                                   | :heavy\_check\_mark: |                      |
 | Amazon EventBridge                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
