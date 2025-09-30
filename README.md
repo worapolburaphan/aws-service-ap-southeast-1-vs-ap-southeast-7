@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 27/09/2025 09:00
+> Latest Update: 30/09/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (94)  |
+| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (95)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -99,7 +99,7 @@ This table update daily sync from
 | Amazon Virtual Private Cloud (VPC)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT SiteWise                               | :heavy\_check\_mark: |                      |
 | AWS Direct Connect                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS IAM Identity Center                        | :heavy\_check\_mark: |                      |
+| AWS IAM Identity Center                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Trusted Advisor                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Signer                                     | :heavy\_check\_mark: |                      |
 | Amazon DynamoDB Accelerator                    | :heavy\_check\_mark: |                      |
