@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 30/09/2025 09:00
+> Latest Update: 03/10/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (210) | ap-southeast-7 (95)  |
+| Service Name                                   | ap-southeast-1 (209) | ap-southeast-7 (95)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -161,26 +161,25 @@ This table update daily sync from
 | AWS Elastic Beanstalk                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Organizations                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon ElastiCache                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS RoboMaker                                  | :heavy\_check\_mark: |                      |
 | AWS Clean Rooms                                | :heavy\_check\_mark: |                      |
 | Amazon Transcribe                              | :heavy\_check\_mark: |                      |
 | AWS Deadline Cloud                             | :heavy\_check\_mark: |                      |
 | AWS IoT Device Management                      | :heavy\_check\_mark: |                      |
 | Amazon Macie                                   | :heavy\_check\_mark: |                      |
 | Amazon Keyspaces (for Apache Cassandra)        | :heavy\_check\_mark: |                      |
+| Amazon Connect                                 | :heavy\_check\_mark: |                      |
 | AWS Key Management Service                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Forecast                                | :heavy\_check\_mark: |                      |
 | Amazon Simple Notification Service (SNS)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Support                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Verified Access                            | :heavy\_check\_mark: |                      |
 | Amazon Managed Service for Prometheus          | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon Connect                                 | :heavy\_check\_mark: |                      |
+| AWS Mainframe Modernization                    | :heavy\_check\_mark: |                      |
 | Amazon FinSpace                                | :heavy\_check\_mark: |                      |
 | AWS Network Firewall                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS VPN                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Storage Gateway                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon EC2 Auto Scaling                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Mainframe Modernization                    | :heavy\_check\_mark: |                      |
 | Amazon FSx for Lustre                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Service Catalog                            | :heavy\_check\_mark: |                      |
 | AWS AppSync                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -189,9 +188,9 @@ This table update daily sync from
 | AWS CodeCommit                                 | :heavy\_check\_mark: |                      |
 | Elastic Load Balancing                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT TwinMaker                              | :heavy\_check\_mark: |                      |
+| Amazon Simple Storage Service (S3)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaTailor                      | :heavy\_check\_mark: |                      |
 | Amazon MemoryDB                                | :heavy\_check\_mark: |                      |
-| Amazon Simple Storage Service (S3)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon CodeGuru                                | :heavy\_check\_mark: |                      |
 | Amazon Elastic File System (EFS)               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Quantum Ledger Database (QLDB)          | :heavy\_check\_mark: |                      |
@@ -199,14 +198,14 @@ This table update daily sync from
 | Amazon GameLift Servers                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaConvert                     | :heavy\_check\_mark: |                      |
 | Amazon FSx for OpenZFS                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Security Hub                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark: |                      |
 | Amazon DynamoDB                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaConnect                     | :heavy\_check\_mark: |                      |
+| Amazon CloudFront                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Config                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Security Hub                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Payment Cryptography                       | :heavy\_check\_mark: |                      |
 | AWS App Mesh                                   | :heavy\_check\_mark: |                      |
-| Amazon CloudFront                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Rekognition                             | :heavy\_check\_mark: |                      |
 | AWS Lambda                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | FreeRTOS                                       | :heavy\_check\_mark: |                      |
