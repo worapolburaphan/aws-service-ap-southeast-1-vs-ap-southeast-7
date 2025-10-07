@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 03/10/2025 09:00
+> Latest Update: 07/10/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (209) | ap-southeast-7 (95)  |
+| Service Name                                   | ap-southeast-1 (209) | ap-southeast-7 (96)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -199,7 +199,7 @@ This table update daily sync from
 | AWS Elemental MediaConvert                     | :heavy\_check\_mark: |                      |
 | Amazon FSx for OpenZFS                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Security Hub                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark: |                      |
+| Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon DynamoDB                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaConnect                     | :heavy\_check\_mark: |                      |
 | Amazon CloudFront                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
