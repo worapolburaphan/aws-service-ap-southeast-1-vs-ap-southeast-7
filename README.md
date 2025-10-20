@@ -1,6 +1,6 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 17/10/2025 09:00
+> Latest Update: 20/10/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
@@ -114,43 +114,43 @@ This table update daily sync from
 | CloudEndure Migration                          | :heavy\_check\_mark: |                      |
 | AWS Resilience Hub                             | :heavy\_check\_mark: |                      |
 | AWS Fargate                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Kendra                                  | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaPackage                     | :heavy\_check\_mark: |                      |
 | Amazon Bedrock                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elastic Disaster Recovery (DRS)            | :heavy\_check\_mark: |                      |
 | AWS Snowcone                                   | :heavy\_check\_mark: |                      |
-| Amazon Kendra                                  | :heavy\_check\_mark: |                      |
 | Amazon EventBridge                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Lex                                     | :heavy\_check\_mark: |                      |
 | AWS Private Certificate Authority              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Verified Permissions                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS X-Ray                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Textract                                | :heavy\_check\_mark: |                      |
 | Amazon Neptune                                 | :heavy\_check\_mark: |                      |
 | AWS Fault Injection Service                    | :heavy\_check\_mark: |                      |
+| AWS Amplify                                    | :heavy\_check\_mark: |                      |
 | AWS Audit Manager                              | :heavy\_check\_mark: |                      |
 | Amazon AppFlow                                 | :heavy\_check\_mark: |                      |
-| Amazon Verified Permissions                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CloudHSM                                   | :heavy\_check\_mark: |                      |
 | AWS Secrets Manager                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon WorkDocs                                | :heavy\_check\_mark: |                      |
 | Amazon Simple Workflow Service (SWF)           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Augmented AI (A2I)                      | :heavy\_check\_mark: |                      |
 | AWS Batch                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Amplify                                    | :heavy\_check\_mark: |                      |
 | Amazon Elastic MapReduce (EMR)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Transfer Family                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Email Service (SES)              | :heavy\_check\_mark: |                      |
 | Amazon VPC Lattice                             | :heavy\_check\_mark: |                      |
 | AWS Marketplace                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Auto Scaling                               | :heavy\_check\_mark: |                      |
 | AWS Application Migration Service (MGN)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodePipeline                               | :heavy\_check\_mark: |                      |
 | EC2 Image Builder                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Location Service                        | :heavy\_check\_mark: |                      |
 | AWS OpsWorks for Chef Automate                 | :heavy\_check\_mark: |                      |
-| AWS Auto Scaling                               | :heavy\_check\_mark: |                      |
 | AWS Lake Formation                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Parallel Computing Service (PCS)           | :heavy\_check\_mark: |                      |
 | Amazon CloudWatch                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon Location Service                        | :heavy\_check\_mark: |                      |
 | AWS Cloud9                                     | :heavy\_check\_mark: |                      |
 | Amazon WorkSpaces                              | :heavy\_check\_mark: |                      |
 | Amazon Managed Blockchain                      | :heavy\_check\_mark: |                      |
@@ -159,10 +159,10 @@ This table update daily sync from
 | AWS Entity Resolution                          | :heavy\_check\_mark: |                      |
 | AWS Serverless Application Repository          | :heavy\_check\_mark: |                      |
 | AWS Elastic Beanstalk                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Transcribe                              | :heavy\_check\_mark: |                      |
 | AWS Organizations                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon ElastiCache                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Clean Rooms                                | :heavy\_check\_mark: |                      |
-| Amazon Transcribe                              | :heavy\_check\_mark: |                      |
 | AWS Deadline Cloud                             | :heavy\_check\_mark: |                      |
 | AWS IoT Device Management                      | :heavy\_check\_mark: |                      |
 | Amazon Macie                                   | :heavy\_check\_mark: |                      |
