@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 22/10/2025 09:00
+> Latest Update: 23/10/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (209) | ap-southeast-7 (96)  |
+| Service Name                                   | ap-southeast-1 (209) | ap-southeast-7 (97)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -110,7 +110,7 @@ This table update daily sync from
 | Amazon Elastic Block Store (EBS)               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Chime                                   | :heavy\_check\_mark: |                      |
 | AWS IQ                                         | :heavy\_check\_mark: |                      |
-| AWS Global Accelerator                         | :heavy\_check\_mark: |                      |
+| AWS Global Accelerator                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | CloudEndure Migration                          | :heavy\_check\_mark: |                      |
 | AWS Resilience Hub                             | :heavy\_check\_mark: |                      |
 | AWS Fargate                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
