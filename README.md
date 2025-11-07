@@ -1,6 +1,6 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 06/11/2025 09:00
+> Latest Update: 07/11/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
@@ -52,7 +52,7 @@ This table update daily sync from
 | Amazon GuardDuty                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Launch Wizard                              | :heavy\_check\_mark: |                      |
 | VMware Cloud on AWS                            | :heavy\_check\_mark: |                      |
-| Amazon AppStream 2.0                           | :heavy\_check\_mark: |                      |
+| Amazon WorkSpaces Applications                 | :heavy\_check\_mark: |                      |
 | AWS Resource Access Manager (RAM)              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Health Dashboard                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Managed Services                           | :heavy\_check\_mark: |                      |
