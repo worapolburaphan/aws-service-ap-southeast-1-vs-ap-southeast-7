@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 07/11/2025 09:00
+> Latest Update: 12/11/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                   | ap-southeast-1 (211) | ap-southeast-7 (98)  |
+| Service Name                                   | ap-southeast-1 (212) | ap-southeast-7 (98)  |
 | ---------------------------------------------- | -------------------- | -------------------- |
 | Amazon Translate                               | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                           | :heavy\_check\_mark: |                      |
@@ -59,18 +59,19 @@ This table update daily sync from
 | AWS Compute Optimizer                          | :heavy\_check\_mark: |                      |
 | Amazon Simple Queue Service (SQS)              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon MQ                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS WAF                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon CloudSearch                             | :heavy\_check\_mark: |                      |
+| Amazon Bedrock AgentCore                       | :heavy\_check\_mark: |                      |
 | AWS Well-Architected Tool                      | :heavy\_check\_mark: |                      |
-| Amazon API Gateway                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Proton                                     | :heavy\_check\_mark: |                      |
 | AWS Step Functions                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS WAF                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Elastic VMware Service                  | :heavy\_check\_mark: |                      |
 | AWS Budgets                                    | :heavy\_check\_mark: |                      |
 | AWS Directory Service                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Glue                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Outposts                                   | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaLive                        | :heavy\_check\_mark: |                      |
+| Amazon API Gateway                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS License Manager                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon WorkSpaces Secure Browser               | :heavy\_check\_mark: |                      |
 | AWS PrivateLink                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -78,9 +79,9 @@ This table update daily sync from
 | Amazon Personalize                             | :heavy\_check\_mark: |                      |
 | AWS Artifact                                   | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon DataZone                                | :heavy\_check\_mark: |                      |
-| Amazon Elastic Kubernetes Service (EKS)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Resource Explorer                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | CloudEndure Disaster Recovery                  | :heavy\_check\_mark: |                      |
+| Amazon Elastic Kubernetes Service (EKS)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Cognito                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Firewall Manager                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CloudFormation                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -89,22 +90,22 @@ This table update daily sync from
 | Amazon Relational Database Service (RDS)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Cloud Directory                         | :heavy\_check\_mark: |                      |
 | Amazon Kinesis Data Streams                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS CodeArtifact                               | :heavy\_check\_mark: |                      |
 | Amazon FSx for NetApp ONTAP                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS HealthOmics                                | :heavy\_check\_mark: |                      |
 | Amazon Detective                               | :heavy\_check\_mark: |                      |
 | Amazon Managed Streaming for Apache Kafka      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Managed Grafana                         | :heavy\_check\_mark: |                      |
+| AWS CodeArtifact                               | :heavy\_check\_mark: |                      |
 | Amazon Pinpoint and End User Messaging         | :heavy\_check\_mark: |                      |
 | AWS Resource Groups                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT SiteWise                               | :heavy\_check\_mark: |                      |
 | Amazon Lightsail                               | :heavy\_check\_mark: |                      |
-| AWS Direct Connect                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IAM Identity Center                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Trusted Advisor                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Virtual Private Cloud (VPC)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Signer                                     | :heavy\_check\_mark: |                      |
 | Amazon Aurora                                  | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Direct Connect                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT Core                                   | :heavy\_check\_mark: |                      |
 | Amazon Elastic Block Store (EBS)               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Chime                                   | :heavy\_check\_mark: |                      |
@@ -117,16 +118,16 @@ This table update daily sync from
 | AWS Backup                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Global Accelerator                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaPackage                     | :heavy\_check\_mark: |                      |
-| Amazon Bedrock                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elastic Disaster Recovery (DRS)            | :heavy\_check\_mark: |                      |
 | AWS Snowcone                                   | :heavy\_check\_mark: |                      |
 | Amazon Kendra                                  | :heavy\_check\_mark: |                      |
-| Amazon EventBridge                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Lex                                     | :heavy\_check\_mark: |                      |
+| Amazon Bedrock                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Private Certificate Authority              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS X-Ray                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Textract                                | :heavy\_check\_mark: |                      |
+| Amazon EventBridge                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Neptune                                 | :heavy\_check\_mark: |                      |
 | AWS Fault Injection Service                    | :heavy\_check\_mark: |                      |
 | AWS Audit Manager                              | :heavy\_check\_mark: |                      |
@@ -134,25 +135,25 @@ This table update daily sync from
 | Amazon Verified Permissions                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CloudHSM                                   | :heavy\_check\_mark: |                      |
 | AWS Secrets Manager                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon Simple Workflow Service (SWF)           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Augmented AI (A2I)                      | :heavy\_check\_mark: |                      |
 | AWS Batch                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                    | :heavy\_check\_mark: |                      |
 | Amazon Elastic MapReduce (EMR)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Email Service (SES)              | :heavy\_check\_mark: |                      |
 | Amazon WorkDocs                                | :heavy\_check\_mark: |                      |
+| Amazon Simple Workflow Service (SWF)           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon VPC Lattice                             | :heavy\_check\_mark: |                      |
 | AWS Marketplace                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Application Migration Service (MGN)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Transfer Family                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodePipeline                               | :heavy\_check\_mark: |                      |
 | EC2 Image Builder                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS OpsWorks for Chef Automate                 | :heavy\_check\_mark: |                      |
 | AWS Auto Scaling                               | :heavy\_check\_mark: |                      |
 | AWS Lake Formation                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Parallel Computing Service (PCS)           | :heavy\_check\_mark: |                      |
 | Amazon CloudWatch                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Location Service                        | :heavy\_check\_mark: |                      |
+| AWS OpsWorks for Chef Automate                 | :heavy\_check\_mark: |                      |
 | AWS Cloud9                                     | :heavy\_check\_mark: |                      |
 | Amazon WorkSpaces                              | :heavy\_check\_mark: |                      |
 | Amazon Managed Blockchain                      | :heavy\_check\_mark: |                      |
@@ -166,55 +167,55 @@ This table update daily sync from
 | AWS Clean Rooms                                | :heavy\_check\_mark: |                      |
 | Amazon Transcribe                              | :heavy\_check\_mark: |                      |
 | AWS Deadline Cloud                             | :heavy\_check\_mark: |                      |
-| AWS IoT Device Management                      | :heavy\_check\_mark: |                      |
 | Amazon Macie                                   | :heavy\_check\_mark: |                      |
 | Amazon Keyspaces (for Apache Cassandra)        | :heavy\_check\_mark: |                      |
 | AWS Key Management Service                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Forecast                                | :heavy\_check\_mark: |                      |
+| AWS IoT Device Management                      | :heavy\_check\_mark: |                      |
 | Amazon Simple Notification Service (SNS)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Support                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Verified Access                            | :heavy\_check\_mark: |                      |
 | Amazon Managed Service for Prometheus          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Connect                                 | :heavy\_check\_mark: |                      |
 | Amazon FinSpace                                | :heavy\_check\_mark: |                      |
 | AWS Network Firewall                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Verified Access                            | :heavy\_check\_mark: |                      |
 | AWS VPN                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Storage Gateway                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon EC2 Auto Scaling                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Mainframe Modernization                    | :heavy\_check\_mark: |                      |
 | Amazon FSx for Lustre                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Service Catalog                            | :heavy\_check\_mark: |                      |
-| AWS AppSync                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Wickr                                      | :heavy\_check\_mark: |                      |
 | Amazon Elastic Container Registry (ECR)        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodeCommit                                 | :heavy\_check\_mark: |                      |
-| Elastic Load Balancing                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT TwinMaker                              | :heavy\_check\_mark: |                      |
+| AWS AppSync                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elemental MediaTailor                      | :heavy\_check\_mark: |                      |
+| Elastic Load Balancing                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon MemoryDB                                | :heavy\_check\_mark: |                      |
 | Amazon Simple Storage Service (S3)             | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Amazon CodeGuru                                | :heavy\_check\_mark: |                      |
 | Amazon Elastic File System (EFS)               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Quantum Ledger Database (QLDB)          | :heavy\_check\_mark: |                      |
 | AWS User Notifications                         | :heavy\_check\_mark: |                      |
 | Amazon GameLift Servers                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon CodeGuru                                | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaConvert                     | :heavy\_check\_mark: |                      |
 | Amazon FSx for OpenZFS                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon DocumentDB (with MongoDB compatibility) | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon DynamoDB                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| AWS Elemental MediaConnect                     | :heavy\_check\_mark: |                      |
 | AWS Config                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Security Hub                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Payment Cryptography                       | :heavy\_check\_mark: |                      |
+| AWS Elemental MediaConnect                     | :heavy\_check\_mark: |                      |
 | AWS App Mesh                                   | :heavy\_check\_mark: |                      |
 | Amazon CloudFront                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Rekognition                             | :heavy\_check\_mark: |                      |
 | AWS Lambda                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | FreeRTOS                                       | :heavy\_check\_mark: |                      |
-| AWS App Runner                                 | :heavy\_check\_mark: |                      |
 | AWS Cloud Control API                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Application Recovery Controller         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx for Windows File Server             | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS App Runner                                 | :heavy\_check\_mark: |                      |
 | Amazon Elastic Container Service (ECS)         | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodeBuild                                  | :heavy\_check\_mark: |                      |
 | Amazon Chime SDK                               | :heavy\_check\_mark: |                      |
