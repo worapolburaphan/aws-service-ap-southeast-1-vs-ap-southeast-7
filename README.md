@@ -1,6 +1,6 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 20/11/2025 09:00
+> Latest Update: 21/11/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
