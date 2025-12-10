@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 09/12/2025 09:00
+> Latest Update: 10/12/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (176) | ap-southeast-7 (112) |
+| Service Name                                             | ap-southeast-1 (178) | ap-southeast-7 (113) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
 | AWS App Runner                                           | :heavy\_check\_mark: |                      |
@@ -83,6 +83,7 @@ This table update daily sync from
 | AWS Transfer Family                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Transit Gateway                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS VPN                                                  | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Verified Access                                      | :heavy\_check\_mark: |                      |
 | AWS WAF                                                  | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Wickr                                                | :heavy\_check\_mark: |                      |
 | AWS X-Ray                                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -174,6 +175,7 @@ This table update daily sync from
 | Amazon Transcribe                                        | :heavy\_check\_mark: |                      |
 | Amazon Translate                                         | :heavy\_check\_mark: |                      |
 | Amazon VPC Lattice                                       | :heavy\_check\_mark: |                      |
+| Amazon Verified Permissions                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Virtual Private Cloud (VPC)                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon WorkSpaces                                        | :heavy\_check\_mark: |                      |
 | Elastic Load Balancing (ELB)                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
