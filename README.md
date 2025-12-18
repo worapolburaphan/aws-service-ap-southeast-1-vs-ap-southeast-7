@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 10/12/2025 09:00
+> Latest Update: 18/12/2025 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (178) | ap-southeast-7 (113) |
+| Service Name                                             | ap-southeast-1 (179) | ap-southeast-7 (114) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
 | AWS App Runner                                           | :heavy\_check\_mark: |                      |
@@ -178,10 +178,11 @@ This table update daily sync from
 | Amazon Verified Permissions                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Virtual Private Cloud (VPC)                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon WorkSpaces                                        | :heavy\_check\_mark: |                      |
+| Amazon WorkSpaces Applications                           | :heavy\_check\_mark: |                      |
 | Elastic Load Balancing (ELB)                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | NAT Gateway                                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Route 53 Resolver Endpoints                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Route53 EC2 DNS                                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
-| Security Hub                                             | :heavy\_check\_mark: |                      |
+| Security Hub                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Security Hub CSPM                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Service Quotas                                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
