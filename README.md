@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 25/12/2025 09:00
+> Latest Update: 02/01/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (177) | ap-southeast-7 (113) |
+| Service Name                                             | ap-southeast-1 (180) | ap-southeast-7 (115) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
 | AWS App Runner                                           | :heavy\_check\_mark: |                      |
@@ -21,6 +21,7 @@ This table update daily sync from
 | AWS Cloud Map                                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Cloud WAN                                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CloudFormation                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS CloudHSM                                             | :heavy\_check\_mark: |                      |
 | AWS CloudShell                                           | :heavy\_check\_mark: |                      |
 | AWS CloudTrail                                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS CodeArtifact                                         | :heavy\_check\_mark: |                      |
@@ -28,6 +29,7 @@ This table update daily sync from
 | AWS CodeCommit                                           | :heavy\_check\_mark: |                      |
 | AWS CodeDeploy                                           | :heavy\_check\_mark: |                      |
 | AWS CodePipeline                                         | :heavy\_check\_mark: |                      |
+| AWS Config                                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Control Tower                                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS DataSync                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Database Migration Service (AWS DMS)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -119,6 +121,7 @@ This table update daily sync from
 | Amazon Elastic Kubernetes Service (EKS)                  | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Elastic VMware Service (EVS)                      | :heavy\_check\_mark: |                      |
 | Amazon EventBridge                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon FSx                                               | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx for Lustre                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx for NetApp ONTAP                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon FSx for OpenZFS                                   | :heavy\_check\_mark: | :heavy\_check\_mark: |
