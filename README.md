@@ -1,12 +1,13 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 17/01/2026 09:00
+> Latest Update: 25/01/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (178) | ap-southeast-7 (116) |
+| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (117) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
+| AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
 | AWS App Runner                                           | :heavy\_check\_mark: |                      |
 | AWS AppConfig                                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -36,9 +37,11 @@ This table update daily sync from
 | AWS Deadline Cloud                                       | :heavy\_check\_mark: |                      |
 | AWS Direct Connect                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Directory Service                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Directory Service for Microsoft Active Directory     | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elastic Beanstalk                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Elastic Disaster Recovery                            | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaConnect                               | :heavy\_check\_mark: |                      |
+| AWS Elemental MediaConvert                               | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaLive                                  | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaPackage                               | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaTailor                                | :heavy\_check\_mark: |                      |
@@ -52,7 +55,7 @@ This table update daily sync from
 | AWS Identity and Access Management (IAM)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Identity and Access Management (IAM) Access Analyzer | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS IoT Core                                             | :heavy\_check\_mark: |                      |
-| AWS IoT Device Defender                                  | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS IoT Device Defender                                  | :heavy\_check\_mark: |                      |
 | AWS IoT Device Management                                | :heavy\_check\_mark: |                      |
 | AWS IoT Greengrass                                       | :heavy\_check\_mark: |                      |
 | AWS IoT SiteWise                                         | :heavy\_check\_mark: |                      |
