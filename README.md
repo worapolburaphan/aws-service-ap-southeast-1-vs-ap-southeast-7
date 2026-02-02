@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 25/01/2026 09:00
+> Latest Update: 02/02/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (117) |
+| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (116) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
@@ -151,7 +151,7 @@ This table update daily sync from
 | Amazon Personalize                                       | :heavy\_check\_mark: |                      |
 | Amazon Quick Suite                                       | :heavy\_check\_mark: |                      |
 | Amazon RDS Custom for Oracle                             | :heavy\_check\_mark: |                      |
-| Amazon RDS Custom for SQL Server                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon RDS Custom for SQL Server                         | :heavy\_check\_mark: |                      |
 | Amazon RDS for Db2                                       | :heavy\_check\_mark: |                      |
 | Amazon RDS for MariaDB                                   | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon RDS for MySQL                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
