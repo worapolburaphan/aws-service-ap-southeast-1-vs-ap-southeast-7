@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 12/03/2026 09:00
+> Latest Update: 20/03/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (116) |
+| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (117) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
@@ -146,7 +146,7 @@ This table update daily sync from
 | Amazon Managed Streaming for Apache Kafka (MSK)          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Managed Workflows for Apache Airflow (MWAA)       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon MemoryDB                                          | :heavy\_check\_mark: |                      |
-| Amazon Neptune                                           | :heavy\_check\_mark: |                      |
+| Amazon Neptune                                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon OpenSearch Service                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Personalize                                       | :heavy\_check\_mark: |                      |
 | Amazon Quick Suite                                       | :heavy\_check\_mark: |                      |
