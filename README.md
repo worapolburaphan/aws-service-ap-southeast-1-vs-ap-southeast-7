@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 27/03/2026 09:00
+> Latest Update: 04/04/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (181) | ap-southeast-7 (117) |
+| Service Name                                             | ap-southeast-1 (182) | ap-southeast-7 (119) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
@@ -71,6 +71,7 @@ This table update daily sync from
 | AWS PrivateLink                                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Resilience Hub                                       | :heavy\_check\_mark: |                      |
 | AWS Resource Access Manager (RAM)                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Resource Explorer                                    | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Resource Groups                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Secrets Manager                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Security Hub                                         | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -168,7 +169,7 @@ This table update daily sync from
 | Amazon SageMaker AI                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon SageMaker Ground Truth                            | :heavy\_check\_mark: |                      |
 | Amazon Security Lake                                     | :heavy\_check\_mark: |                      |
-| Amazon Simple Email Service (SES)                        | :heavy\_check\_mark: |                      |
+| Amazon Simple Email Service (SES)                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Notification Service (SNS)                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Queue Service (SQS)                        | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Simple Storage Service (S3)                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
