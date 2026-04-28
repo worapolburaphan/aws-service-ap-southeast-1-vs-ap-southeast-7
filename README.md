@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 20/04/2026 09:00
+> Latest Update: 28/04/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (182) | ap-southeast-7 (121) |
+| Service Name                                             | ap-southeast-1 (183) | ap-southeast-7 (121) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
@@ -184,6 +184,7 @@ This table update daily sync from
 | Amazon WorkSpaces Applications                           | :heavy\_check\_mark: |                      |
 | Elastic Load Balancing (ELB)                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | NAT Gateway                                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Oracle Database@AWS                                      | :heavy\_check\_mark: |                      |
 | Route 53 Resolver Endpoints                              | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Route53 EC2 DNS                                          | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Security Hub                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
