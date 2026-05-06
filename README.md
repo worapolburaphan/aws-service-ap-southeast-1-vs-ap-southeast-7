@@ -1,6 +1,6 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 28/04/2026 09:00
+> Latest Update: 06/05/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
@@ -150,7 +150,7 @@ This table update daily sync from
 | Amazon Neptune                                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon OpenSearch Service                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Personalize                                       | :heavy\_check\_mark: |                      |
-| Amazon Quick Suite                                       | :heavy\_check\_mark: |                      |
+| Amazon Quick                                             | :heavy\_check\_mark: |                      |
 | Amazon RDS Custom for Oracle                             | :heavy\_check\_mark: |                      |
 | Amazon RDS Custom for SQL Server                         | :heavy\_check\_mark: |                      |
 | Amazon RDS for Db2                                       | :heavy\_check\_mark: |                      |
