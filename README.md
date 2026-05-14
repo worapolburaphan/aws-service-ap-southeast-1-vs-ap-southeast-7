@@ -1,11 +1,11 @@
 # 📊 AWS Service Region Comparison: ap-southeast-1 vs ap-southeast-7
 
-> Latest Update: 06/05/2026 09:00
+> Latest Update: 14/05/2026 09:00
 
 This table update daily sync from 
 [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
-| Service Name                                             | ap-southeast-1 (183) | ap-southeast-7 (121) |
+| Service Name                                             | ap-southeast-1 (185) | ap-southeast-7 (123) |
 | -------------------------------------------------------- | -------------------- | -------------------- |
 | AD Connector                                             | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Amplify                                              | :heavy\_check\_mark: |                      |
@@ -44,7 +44,7 @@ This table update daily sync from
 | AWS Elemental MediaConvert                               | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaLive                                  | :heavy\_check\_mark: |                      |
 | AWS Elemental MediaPackage                               | :heavy\_check\_mark: |                      |
-| AWS Elemental MediaTailor                                | :heavy\_check\_mark: |                      |
+| AWS Elemental MediaTailor                                | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS End User Messaging                                   | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Fault Injection Service                              | :heavy\_check\_mark: |                      |
 | AWS Firewall Manager                                     | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -82,6 +82,7 @@ This table update daily sync from
 | AWS Signer                                               | :heavy\_check\_mark: |                      |
 | AWS Step Functions                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Storage Gateway                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| AWS Sustainability                                       | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Systems Manager                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Transfer Family                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | AWS Transit Gateway                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
@@ -95,6 +96,7 @@ This table update daily sync from
 | Amazon Application Recovery Controller                   | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Athena                                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Aurora                                            | :heavy\_check\_mark: | :heavy\_check\_mark: |
+| Amazon Aurora DSQL                                       | :heavy\_check\_mark: |                      |
 | Amazon Aurora MySQL                                      | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Aurora PostgreSQL                                 | :heavy\_check\_mark: | :heavy\_check\_mark: |
 | Amazon Bedrock                                           | :heavy\_check\_mark: | :heavy\_check\_mark: |
